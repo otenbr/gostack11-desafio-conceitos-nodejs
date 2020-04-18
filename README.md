@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/otenbr/gostack11-desafio-conceitos-nodejs?color=%2304D361">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/otenbr/netobox-backend?color=%2304D361">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/otenbr/gostack11-desafio-conceitos-nodejs?color=%2304D361">
 
   <img alt="Made by José Antonio" src="https://img.shields.io/badge/made%20by-José%20Antonio-%2304D361">
 
